@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/machine-learning-zoomcamp(leo).iml" filepath="$PROJECT_DIR$/.idea/machine-learning-zoomcamp(leo).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mlzoomcamp-2026-deployment.iml" filepath="$PROJECT_DIR$/.idea/mlzoomcamp-2026-deployment.iml" />
     </modules>
   </component>
 </project>
